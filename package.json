@@ -1,0 +1,19 @@
+{
+  "name": "mean_jwt_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.0.1",
+    "log4js": "^0.6.37",
+    "mongoose": "^4.5.1",
+    "morgan": "^1.7.0"
+  }
+}
